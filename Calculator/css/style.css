@@ -17,11 +17,14 @@
     justify-content: center;
 }
 
+    /* Inserindo cor via css*/
 .calculator {
     background-color: #3a4452;
     padding: 20px;
     border-radius: 10px;
 }
+
+/* estilizando e colocando tamanho na calculadora*/
 
 .calculator form input {
     border: 0;
